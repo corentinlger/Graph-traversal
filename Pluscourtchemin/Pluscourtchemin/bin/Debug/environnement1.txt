@@ -1,0 +1,26 @@
+nombre de lignes : 20
+nombre de colonnes : 20
+xobstacle : 5
+yobstacle : 5
+xobstacle : 5
+yobstacle : 6
+xobstacle : 5
+yobstacle : 7
+xobstacle : 5
+yobstacle : 8
+xobstacle : 5
+yobstacle : 9
+xobstacle : 5
+yobstacle : 10
+xobstacle : 10
+yobstacle : 8
+xobstacle : 10
+yobstacle : 9
+xobstacle : 10
+yobstacle : 10
+xobstacle : 10
+yobstacle : 11
+xobstacle : 10
+yobstacle : 12
+xobstacle : 10
+yobstacle : 13
